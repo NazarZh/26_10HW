@@ -1,6 +1,6 @@
 package com.company;
 
-public class Pizza extends Circle{
+public class Pizza {// extends Circle{
     /**It is a simple class that initialize information about pizza using information from Circle class.
      * This class extends Circle class*/
     Circle basis;// = new Circle();
